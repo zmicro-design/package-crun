@@ -1,0 +1,7 @@
+#!/bin/bash
+
+export PACKAGE_CORE_NAME="crun"
+export PACKAGE_CORE_BIN_NAME="$PACKAGE_CORE_NAME"
+export PACKAGE_CORE_VERSION=v1.7.2
+export PACKAGE_CORE_RELEASE_DATE=2022.11.30
+export PACKAGE_CORE_RELEASE_DOWNLOAD="https://github.com/containers/crun/releases/download"
